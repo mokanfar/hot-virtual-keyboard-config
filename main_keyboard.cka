@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CsActions Version="7.3" Date="20160128 16:30:39.501">
+  <Action Key="11" ControlSet="0" CSA="4" ScreenKind="0" Kind="0" Description="VPN" Text="HMA LA 1" Date="1/11/2016 3:45:10 PM"/>
+  <Action Key="11" ControlSet="32" CSA="4" ScreenKind="0" Kind="0" Description="VPN" Text="HMA LA 1" Date="1/11/2016 3:45:56 PM"/>
+  <Action Key="14" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="YOU" Text="you" Date="1/11/2016 3:45:04 PM"/>
+  <Action Key="14" ControlSet="32" CSA="3" ScreenKind="0" Kind="0" Description="YOU" Text="you" Date="1/11/2016 3:46:15 PM"/>
+  <Action Key="15" ControlSet="0" CSA="8" ScreenKind="0" Kind="4" Date="1/11/2016 4:33:31 PM"/>
+  <Action Key="20" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="BOOT" Text="@media (max-width: 767px) {
+
+	}/*col-xs*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	}/*col-sm*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	}/*col-md*/
+	
+@media (min-width: 1200px) {
+
+	}/*col-lg*/" Date="1/27/2016 5:39:39 PM"/>
+  <Action Key="22" ControlSet="0" CSA="2" ScreenKind="0" Kind="80" Description="CTRL+P" CBControlSet="32" Date="1/27/2016 5:26:38 PM"/>
+  <Action Key="24" ControlSet="0" CSA="2" ScreenKind="0" Kind="66" Description="CTRL+B" CBControlSet="32" Date="1/27/2016 5:26:54 PM"/>
+  <Action Key="48" ControlSet="256" CSA="2" ScreenKind="0" Kind="121" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="49" ControlSet="256" CSA="2" ScreenKind="0" Kind="112" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="50" ControlSet="256" CSA="2" ScreenKind="0" Kind="113" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="51" ControlSet="256" CSA="2" ScreenKind="0" Kind="114" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="52" ControlSet="256" CSA="2" ScreenKind="0" Kind="115" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="53" ControlSet="256" CSA="2" ScreenKind="0" Kind="116" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="54" ControlSet="256" CSA="2" ScreenKind="0" Kind="117" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="55" ControlSet="256" CSA="2" ScreenKind="0" Kind="118" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="56" ControlSet="256" CSA="2" ScreenKind="0" Kind="119" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="57" ControlSet="256" CSA="2" ScreenKind="0" Kind="120" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="58" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="jQuery" Text="<script>
+jQuery( document ).ready(function($){
+$('.asdf').
+jQuery('.asdf').
+});
+</script>" Date="1/27/2016 5:34:42 PM"/>
+  <Action Key="63" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="CSS" Text="{
+font-size:1em;
+font-weight:bold;
+color:#000;
+text-decoration:underline;
+text-align:center;
+vertical-align:middle;
+position:relative;
+position:absolute;
+position:fixed;
+display:table;
+display:table-cell;
+display:inline-block;
+display:block;
+overflow:auto;
+height:auto;
+width:100px;
+clear:both;
+}" Date="1/28/2016 1:44:03 PM"/>
+  <Action Key="65" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="!" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="66" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="<" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="67" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="'" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="68" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="#" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="69" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="3" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="70" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="$" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="71" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="%" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="72" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="^" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="73" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="8" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="74" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="&" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="75" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="*" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="76" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="(" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="77" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="ˆ" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="78" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text=">" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="79" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="9" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="80" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="81" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="1" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="82" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="4" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="83" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="@" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="84" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="5" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="85" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="7" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="86" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="##quote##" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="87" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="2" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="88" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text=":" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="89" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="6" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="90" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text=";" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="93" ControlSet="0" CSA="8" ScreenKind="0" Kind="2" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="136" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="IMG PHDR" Text="{
+.jpg
+.png
+.gif
+.svg
+
+http://placehold.it/300x200
+http://placehold.it/80x80
+http://placehold.it/180x120
+}" Date="1/28/2016 1:42:31 PM"/>
+  <Action Key="140" ControlSet="0" CSA="2" ScreenKind="0" Kind="190" Description="EMMET" CBControlSet="32" Date="1/27/2016 5:26:00 PM"/>
+  <Action Key="142" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="LOST" Text="div
+	lost-column: 1/1
+	margin-bottom: 10px
+	@media (min-width: 500px)
+		lost-column: 1/2
+	@media (min-width: 800px)
+		lost-column: 1/3
+	@media (min-width: 1100px)
+		lost-column: 1/5" Date="1/27/2016 5:41:02 PM"/>
+  <Action Key="143" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="PFILL" Text="        <div class=##quote##item active##quote##>
+
+          <a href=##quote##{{store url=##quote####quote##}}##quote##>
+            <picture>
+                <source srcset=##quote####quote## media=##quote##(min-width: 1500px)##quote##>
+                <source srcset=##quote####quote## media=##quote##(min-width: 1200px)##quote##>
+                <source srcset=##quote####quote## media=##quote##(min-width: 960px)##quote##>
+                <source srcset=##quote####quote## media=##quote##(min-width: 640px)##quote##>
+                <source srcset=##quote####quote## media=##quote##(min-width: 480px)##quote##>
+                <source srcset=##quote####quote## media=##quote##(min-width: 320px)##quote##>
+                <img class=##quote##img-responsive##quote## srcset=##quote####quote## alt=##quote####quote##>
+            </picture></a>
+    
+        </div>" Date="1/27/2016 5:38:49 PM"/>
+  <Action Key="148" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="M/P" Text="{
+margin:0 auto;
+margin-top:10px;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:10px;
+padding-top:10px;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:10px;
+}" Date="1/28/2016 1:43:52 PM"/>
+  <Action Key="151" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description=".A{css}" Text=".asdf {
+
+" Date="1/28/2016 1:52:15 PM"/>
+  <Action Key="152" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="GULP" Text="C:\Users\danielz\AppData\Local\Programs\Git\bin\sh.exe --login -i -new_console:d:D:\vagrant\bin\httpdocs\z\lost-sass-gulp -c ##quote##subl stores/empty/src/index.html;subl stores/empty/src/sass/style.scss;subl stores/empty/src/js/foo.js;gulp;##quote##" Date="1/28/2016 2:48:07 PM"/>
+  <Action Key="155" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="()" Text="()" Date="1/27/2016 5:55:32 PM"/>
+  <Action Key="157" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="SRC" Text="{
+<script src=##quote##js/foo.js##quote##></script>
+<link rel=##quote##stylesheet##quote## href=##quote##css/styles.css##quote##>
+}" Date="1/28/2016 1:43:36 PM"/>
+  <Action Key="158" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="LOG" Text="console.log();" Date="1/28/2016 10:55:21 AM"/>
+  <Action Key="159" ControlSet="0" CSA="2" ScreenKind="0" Kind="37" Description="LW" CBControlSet="128" Date="1/12/2016 1:57:04 PM"/>
+  <Action Key="186" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text=")" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="187" ControlSet="256" CSA="2" ScreenKind="0" Kind="123" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="188" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="," Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="189" ControlSet="256" CSA="2" ScreenKind="0" Kind="122" CBControlSet="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="190" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="." Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="191" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="?" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="193" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="CLASS" Text="class=##quote####quote##" Date="1/27/2016 5:29:51 PM"/>
+  <Action Key="194" ControlSet="0" CSA="2" ScreenKind="0" Kind="72" Description="PTFY" CBControlSet="48" Date="1/27/2016 5:23:32 PM"/>
+  <Action Key="195" ControlSet="0" CSA="8" ScreenKind="0" Kind="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="195" ControlSet="16" CSA="8" ScreenKind="0" Kind="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="195" ControlSet="32" CSA="8" ScreenKind="0" Kind="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="195" ControlSet="256" CSA="8" ScreenKind="0" Kind="0" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="196" ControlSet="0" CSA="9" ScreenKind="0" Kind="2" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="196" ControlSet="16" CSA="9" ScreenKind="0" Kind="2" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="196" ControlSet="32" CSA="9" ScreenKind="0" Kind="2" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="196" ControlSet="256" CSA="8" ScreenKind="0" Kind="4" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="197" ControlSet="0" CSA="8" ScreenKind="0" Kind="3" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="198" ControlSet="0" CSA="8" ScreenKind="0" Kind="4" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="198" ControlSet="16" CSA="8" ScreenKind="0" Kind="4" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="198" ControlSet="32" CSA="8" ScreenKind="0" Kind="4" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="199" ControlSet="0" CSA="2" ScreenKind="0" Kind="88" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="199" ControlSet="16" CSA="2" ScreenKind="0" Kind="88" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="199" ControlSet="32" CSA="2" ScreenKind="0" Kind="88" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="200" ControlSet="0" CSA="2" ScreenKind="0" Kind="67" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="200" ControlSet="16" CSA="2" ScreenKind="0" Kind="67" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="200" ControlSet="32" CSA="2" ScreenKind="0" Kind="67" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="201" ControlSet="0" CSA="2" ScreenKind="0" Kind="86" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="201" ControlSet="16" CSA="2" ScreenKind="0" Kind="86" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="201" ControlSet="32" CSA="2" ScreenKind="0" Kind="86" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="202" ControlSet="0" CSA="2" ScreenKind="0" Kind="90" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="202" ControlSet="16" CSA="2" ScreenKind="0" Kind="90" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="202" ControlSet="32" CSA="2" ScreenKind="0" Kind="90" CBControlSet="32" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="203" ControlSet="0" CSA="8" ScreenKind="0" Kind="1" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="203" ControlSet="16" CSA="8" ScreenKind="0" Kind="1" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="203" ControlSet="32" CSA="8" ScreenKind="0" Kind="1" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="204" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="LOCALHOST" Text="http://localhost:3000" Date="1/28/2016 10:54:40 AM"/>
+  <Action Key="205" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="</>" Text="<></>" Date="1/27/2016 5:15:32 PM"/>
+  <Action Key="206" ControlSet="0" CSA="5" ScreenKind="0" Kind="0" Text="calc.exe" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="207" ControlSet="0" CSA="2" ScreenKind="0" Kind="39" Description="RW" CBControlSet="128" Date="1/12/2016 1:56:55 PM"/>
+  <Action Key="208" ControlSet="0" CSA="11" ScreenKind="0" Kind="1" Speed="10" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="209" ControlSet="0" CSA="11" ScreenKind="0" Kind="0" Speed="10" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="210" ControlSet="0" CSA="11" ScreenKind="0" Kind="2" Speed="10" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="211" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Text="$" Date="1/27/2016 5:57:54 PM"/>
+  <Action Key="212" ControlSet="0" CSA="3" ScreenKind="0" Kind="1" Text="https://" Date="1/28/2016 10:31:25 AM"/>
+  <Action Key="213" ControlSet="0" CSA="3" ScreenKind="0" Kind="1" Description="PHP" Text="<?php ?>" Date="1/27/2016 5:35:14 PM"/>
+  <Action Key="214" ControlSet="0" CSA="3" ScreenKind="0" Kind="1" Text="ul>li" Date="1/28/2016 10:31:43 AM"/>
+  <Action Key="215" ControlSet="0" CSA="8" ScreenKind="0" Kind="3" Text="asdf3;AlphabeticalVerticalEn;" Date="1/27/2016 4:51:36 PM"/>
+  <Action Key="216" ControlSet="0" CSA="3" ScreenKind="0" Kind="1" Text="," Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="217" ControlSet="0" CSA="3" ScreenKind="0" Kind="1" Text=".com" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="218" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="img" Text="img" Date="1/28/2016 10:59:01 AM"/>
+  <Action Key="219" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="-" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="220" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="_" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="221" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="=" Date="1/11/2016 3:38:59 PM"/>
+  <Action Key="222" ControlSet="256" CSA="3" ScreenKind="0" Kind="1" Text="+" Date="1/11/2016 3:39:00 PM"/>
+  <Action Key="223" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Text="k" Date="1/28/2016 10:27:01 AM"/>
+  <Action Key="224" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Text="k" Date="1/11/2016 3:48:20 PM"/>
+  <Action Key="230" ControlSet="0" CSA="8" ScreenKind="0" Kind="3" Date="1/28/2016 1:50:56 PM"/>
+  <Action Key="237" ControlSet="0" CSA="3" ScreenKind="0" Kind="0" Description="LOREM" Text="LOREM" Date="1/28/2016 10:32:43 AM"/>
+  <Action Key="252" ControlSet="0" CSA="2" ScreenKind="0" Kind="186" CBControlSet="32" Date="1/12/2016 9:11:58 AM"/>
+  <Action Key="252" ControlSet="32" CSA="2" ScreenKind="0" Kind="186" CBControlSet="32" Date="1/11/2016 3:46:50 PM"/>
+</CsActions>
